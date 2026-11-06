@@ -5,13 +5,11 @@ An autonomous drone system built using PX4, ROS 2, Gazebo and Python.
 
 ## Technology stack
 
-- Ubuntu 24.04
-- ROS 2 Jazzy
-- PX4 Autopilot
-- Gazebo Harmonic
-- Micro XRCE-DDS
-- Python
-- YOLO / Computer Vision
+- Ubuntu: 24.04
+- ROS 2: Jazzy
+- Gazebo: Harmonic 8.15.0
+- PX4-Autopilot: 1.17.0
+- Micro XRCE-DDS Agent: 2.4.3
 
 ## Project structure
 
